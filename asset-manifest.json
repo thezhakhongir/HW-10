@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/thezhakhongir/.github.io/HW-10/static/css/main.d1473a40.css",
-    "main.js": "/thezhakhongir/.github.io/HW-10/static/js/main.a48b0332.js",
-    "index.html": "/thezhakhongir/.github.io/HW-10/index.html",
-    "main.d1473a40.css.map": "/thezhakhongir/.github.io/HW-10/static/css/main.d1473a40.css.map",
-    "main.a48b0332.js.map": "/thezhakhongir/.github.io/HW-10/static/js/main.a48b0332.js.map"
+    "main.css": "/HW-10/static/css/main.d1473a40.css",
+    "main.js": "/HW-10/static/js/main.a48b0332.js",
+    "index.html": "/HW-10/index.html",
+    "main.d1473a40.css.map": "/HW-10/static/css/main.d1473a40.css.map",
+    "main.a48b0332.js.map": "/HW-10/static/js/main.a48b0332.js.map"
   },
   "entrypoints": [
     "static/css/main.d1473a40.css",
