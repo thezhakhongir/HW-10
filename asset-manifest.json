@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thezhakhongir/.github.io/HW-10/static/css/main.d1473a40.css",
+    "main.js": "/thezhakhongir/.github.io/HW-10/static/js/main.a48b0332.js",
+    "index.html": "/thezhakhongir/.github.io/HW-10/index.html",
+    "main.d1473a40.css.map": "/thezhakhongir/.github.io/HW-10/static/css/main.d1473a40.css.map",
+    "main.a48b0332.js.map": "/thezhakhongir/.github.io/HW-10/static/js/main.a48b0332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1473a40.css",
+    "static/js/main.a48b0332.js"
+  ]
+}
